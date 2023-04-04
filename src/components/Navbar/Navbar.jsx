@@ -4,7 +4,7 @@ import styles from "./Navbar.module.css"
 const NavBar = () => {
     return (
         <div className={styles.containerNavbar}>
-            <img src="" alt="Logo de la empresa" />
+            <img src="https://res.cloudinary.com/dyturjhhz/image/upload/v1680566333/Logo2_bzpnku.jpg" alt="Logo de la empresa" />
             <ul style={{display: "flex", gap: "30px"}}>
                 <li>Todos</li>
                 <li>Shampoos</li>
